@@ -7,5 +7,6 @@ Implementation of a network topology with redundancy, load balancing, failover, 
   * Inner routers and load balancers are found in this layer.
 * Kernel Layer
   * Here we find our boundary routers using BGP to comunicate with outer networks.
+
 The following image shows the network topology and respective IP's for each device in the network.
 ![Network Topology](/images/network-topology.png)
