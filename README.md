@@ -1,5 +1,5 @@
 # Network-Management
-Implementation of a network topology with redundancy, load balancing, failover, routing and SNMP monitoring. Using snmpd, OSPF and BGP routing protocols in Quagga, keepalived and some bash scripts. All of it running into customized Tiny Core virtual machines.
+Implementation of a network topology with redundancy, load balancing, failover, routing and SNMP monitoring. Using snmpd, OSPF and BGP routing protocols in Quagga, keepalived and some Shell scripts. All of it running into customized Tiny Core virtual machines.
 ## Structure of the project
 * Access Layer
   * In this layer we find our Web Servers.
