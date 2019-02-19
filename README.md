@@ -1,6 +1,6 @@
 # Network-Management
 Implementation of a network topology with redundancy, load balancing, failover, routing and SNMP monitoring. Using snmpd, OSPF and BGP routing protocols in Quagga, keepalived and some Shell scripts. All of it running into customized Tiny Core virtual machines with GNS3 in Raizo.
-## Structure of the project
+## Network topology
 * Access Layer
   * In this layer we find our Web Servers.
 * Distribution Layer
