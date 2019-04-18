@@ -10,3 +10,8 @@ Implementation of a network topology with redundancy, load balancing, failover, 
 
 The following image shows the network topology and respective IP's for each device in the network.
 ![Network Topology](/images/network-topology.png)
+
+# Notes
+* In this project may part was to implement routing and loadbalancing.
+* The SNMP part was done by my team mate.
+* Soon I'll upload the TinyCore VM's that I used into the project, but not the full project.
