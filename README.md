@@ -12,6 +12,5 @@ The following image shows the network topology and respective IP's for each devi
 ![Network Topology](/images/network-topology.png)
 
 # Notes
-* In this project may part was to implement routing and loadbalancing.
+* In this project my part was to implement routing and loadbalancing.
 * The SNMP part was done by my team mate.
-* Soon I'll upload the TinyCore VM's that I used into the project, but not the full project.
